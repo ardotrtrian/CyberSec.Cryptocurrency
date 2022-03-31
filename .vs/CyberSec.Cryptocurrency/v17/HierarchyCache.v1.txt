@@ -1,0 +1,349 @@
+﻿++Solution 'CyberSec.Cryptocurrency' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:CyberSec.Cryptocurrency.sln
+++CyberSec.Cryptocurrency.API
+i:{00000000-0000-0000-0000-000000000000}:CyberSec.Cryptocurrency.API
+++Connected Services 
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:>2401
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:>2402
+++Dependencies
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:>2399
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>1407
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:>1406
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:>2400
+++Properties
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\properties\
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\properties\
+++Controllers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\controllers\
+++UserController.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\controllers\usercontroller.cs
+++WeatherForecastController.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\controllers\weatherforecastcontroller.cs
+++Middlewares
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\middlewares\
+++ErrorHandlerMiddleware.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\middlewares\errorhandlermiddleware.cs
+++JwtMiddleware.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\middlewares\jwtmiddleware.cs
+++Pages
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\pages\
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\pages\
+++appsettings.json
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\appsettings.json
+++Program.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\program.cs
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\program.cs
+++No service dependencies discovered
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:>2403
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:>2404
+++Analyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:analyzers
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:analyzers
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:analyzers
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:analyzers
+++Frameworks
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:frameworks
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:frameworks
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:frameworks
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:frameworks
+++Packages
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:packages
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:packages
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:packages
+++Projects
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:projects
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:projects
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:projects
+++launchSettings.json
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\properties\launchsettings.json
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\properties\launchsettings.json
+++Error.cshtml
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\pages\error.cshtml
+++appsettings.Development.json
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.1\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\microsoft.netcore.app
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\microsoft.netcore.app
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\microsoft.netcore.app
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\microsoft.netcore.app
+++Microsoft.AspNetCore.Components.WebAssembly.Server (6.0.3)
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:>2435
+++CyberSec.Cryptocurrency.Client
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\bin\debug\net6.0\cybersec.cryptocurrency.client.dll
+i:{00000000-0000-0000-0000-000000000000}:CyberSec.Cryptocurrency.Client
+++CyberSec.Cryptocurrency.Service
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\bin\debug\net6.0\cybersec.cryptocurrency.service.dll
+i:{00000000-0000-0000-0000-000000000000}:CyberSec.Cryptocurrency.Service
+++CyberSec.Cryptocurrency.Shared
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\bin\debug\net6.0\cybersec.cryptocurrency.shared.dll
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\cybersec.cryptocurrency.shared.csproj
+i:{00000000-0000-0000-0000-000000000000}:CyberSec.Cryptocurrency.Shared
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\bin\debug\net6.0\cybersec.cryptocurrency.shared.dll
+++Error.cshtml.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\pages\error.cshtml.cs
+++Entities
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\entities\
+++Exceptions
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\exceptions\
+++UserException.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\exceptions\userexception.cs
+++Helpers
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\helpers\
+++Guider.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\helpers\guider.cs
+++Interfaces
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\interfaces\
+++IDate.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\interfaces\idate.cs
+++IEmailService.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\interfaces\iemailservice.cs
+++IJwtUtils.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\interfaces\ijwtutils.cs
+++IUserService.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\interfaces\iuserservice.cs
+++Models
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\models\
+++Settings
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\models\settings\
+++EmailSetting.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\models\settings\emailsetting.cs
+++JwtSetting.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\models\settings\jwtsetting.cs
+++AuthenticateRequest.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\models\authenticaterequest.cs
+++RegisterRequest.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\models\registerrequest.cs
+++Persistence
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\persistence\
+++Services
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\services\
+++Date.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\services\date.cs
+++EmailService.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\services\emailservice.cs
+++JwtUtils.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\services\jwtutils.cs
+++UserService.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\services\userservice.cs
+++RefreshToken.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\entities\refreshtoken.cs
+++User.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\entities\user.cs
+++CryptocurrencyContext.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\persistence\cryptocurrencycontext.cs
+++BCrypt.Net-Core (1.6.0)
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>2415
+++MailKit (3.2.0)
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>2489
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>2413
+++MimeKit (3.2.0)
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>2490
+++System.IdentityModel.Tokens.Jwt (6.16.0)
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>2414
+++DTOs
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\dtos\
+++WeatherForecast.cs
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\weatherforecast.cs
+++AuthenticateDto.cs
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\dtos\authenticatedto.cs
+++UserDto.cs
+i:{9c637478-3194-4e14-95b0-32a9ed0acddc}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\shared\dtos\userdto.cs
+++wwwroot
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\
+++Shared
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\shared\
+++_Imports.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\_imports.razor
+++App.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\app.razor
+++css
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\css\
+++favicon.ico
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\favicon.ico
+++icon-192.png
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\icon-192.png
+++index.html
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\index.html
+++Counter.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\pages\counter.razor
+++FetchData.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\pages\fetchdata.razor
+++Index.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\pages\index.razor
+++MainLayout.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\shared\mainlayout.razor
+++NavMenu.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\shared\surveyprompt.razor
+++ILLink.CodeFixProvider
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.3)
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:>2452
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.3)
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:>2453
+++bootstrap
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\bootstrap\
+++open-iconic
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\
+++app.css
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\app.css
+++MainLayout.razor.css
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\shared\navmenu.razor.css
+++bootstrap.min.css
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\readme.md
+++bootstrap.min.css.map
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{6e6273e0-d73c-461c-9d2c-79b73f8854ef}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++VerifyEmailRequest.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\models\verifyemailrequest.cs
+++NewFolder
+++Attributes
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\attributes\
+++AuthorizeAttribute.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\attributes\authorizeattribute.cs
+++AllowAnonymousAttribute.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\attributes\allowanonymousattribute.cs
+++Script Documents
+++localhost꞉7243/_framework/blazor.webassembly.js
+++localhost꞉7243/_framework/aspnetcore-browser-refresh.js
+++localhost꞉7243/_framework/dotnet.6.0.3.x7n82q2j14.js
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Shared\WeatherForecast.cs
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Shared\DTOs\AuthenticateDto.cs
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Shared\DTOs\UserDto.cs
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Client\Shared\SurveyPrompt.razor
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Client\Shared\MainLayout.razor
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Client\Shared\NavMenu.razor
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Client\Pages\Counter.razor
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Client\Pages\FetchData.razor
+++file://c:\Users\Ardo\source\repos\CyberSec.Cryptocurrency\CyberSec.Cryptocurrency\Client\Program.cs
+++mono-wasm.invalid/variadic_converter_ii_result_unmarshaled
+++mono-wasm.invalid/converter_ii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectByJSHandle
+++mono-wasm.invalid/converter_mi
+++mono-wasm.invalid/managed_BINDINGS_TryGetCSOwnedObjectJSHandle
+++mono-wasm.invalid/variadic_converter_mi
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectJSHandle
+++mono-wasm.invalid/converter_iii_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_iii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateCSOwnedProxy
+++mono-wasm.invalid/variadic_converter_i_result_unmarshaled
+++mono-wasm.invalid/converter_i_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectByGCHandle
+++mono-wasm.invalid/converter_m
+++mono-wasm.invalid/variadic_converter_m
+++mono-wasm.invalid/converter_i
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectGCHandle
+++mono-wasm.invalid/variadic_converter_i
+++mono-wasm.invalid/managed_BINDINGS_ReleaseJSOwnedObjectByGCHandle
+++mono-wasm.invalid/converter_
+++mono-wasm.invalid/variadic_converter_io
+++mono-wasm.invalid/variadic_converter_
+++mono-wasm.invalid/managed_BINDINGS_CreateTaskSource
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceResult
+++mono-wasm.invalid/converter_is
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceFailure
+++mono-wasm.invalid/variadic_converter_is
+++mono-wasm.invalid/managed_BINDINGS_GetTaskSourceTask
+++mono-wasm.invalid/converter_mo
+++mono-wasm.invalid/variadic_converter_mo
+++mono-wasm.invalid/managed_BINDINGS_SetupJSContinuation
+++mono-wasm.invalid/managed_BINDINGS_ObjectToString
+++mono-wasm.invalid/managed_BINDINGS_GetDateValue
+++mono-wasm.invalid/variadic_converter_d_result_unmarshaled
+++mono-wasm.invalid/converter_d_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateDateTime
+++mono-wasm.invalid/converter_s_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_s_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateUri
+++mono-wasm.invalid/managed_BINDINGS_IsSimpleArray
+++mono-wasm.invalid/converter_im
+++mono-wasm.invalid/variadic_converter_im
+++mono-wasm.invalid/converter_ssss
+++mono-wasm.invalid/variadic_converter_ssss
+++mono-wasm.invalid/converter_s
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_InvokeDotNet
+++mono-wasm.invalid/variadic_converter_s
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_NotifyByteArrayAvailable
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_EndInvokeJS
+++mono-wasm.invalid/converter_io
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_BeginInvokeDotNet
+++localhost꞉7243/_framework/blazor-hotreload.js
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>2575
+++Microsoft.EntityFrameworkCore.InMemory (6.0.3)
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:>2576
+++Enums
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\enums\
+++Role.cs
+i:{53615b6d-07fe-46a0-813b-ba9c33380a50}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency.service\enums\role.cs
+++BaseController.cs
+i:{139af2c9-5275-4c95-9ae5-33a793181e01}:c:\users\ardo\source\repos\cybersec.cryptocurrency\cybersec.cryptocurrency\server\controllers\basecontroller.cs
