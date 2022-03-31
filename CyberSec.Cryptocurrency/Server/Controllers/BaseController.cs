@@ -7,5 +7,5 @@ namespace CyberSec.Cryptocurrency.API.Controllers;
 public abstract class BaseController : ControllerBase
 {
     // returns the current authenticated account (null if not logged in)
-    public User User => (User)HttpContext.Items[nameof(User)];
+    public new User User => (User)HttpContext.Items[nameof(User)];
 }
