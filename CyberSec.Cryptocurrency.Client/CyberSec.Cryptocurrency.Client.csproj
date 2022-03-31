@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shared\CyberSec.Cryptocurrency.Shared.csproj" />
+    <ProjectReference Include="..\CyberSec.Cryptocurrency.Shared\CyberSec.Cryptocurrency.Shared.csproj" />
   </ItemGroup>
 
 </Project>

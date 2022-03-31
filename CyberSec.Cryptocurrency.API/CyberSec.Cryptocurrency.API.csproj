@@ -11,9 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CyberSec.Cryptocurrency.Service\CyberSec.Cryptocurrency.Service.csproj" />
-    <ProjectReference Include="..\Client\CyberSec.Cryptocurrency.Client.csproj" />
-    <ProjectReference Include="..\Shared\CyberSec.Cryptocurrency.Shared.csproj" />
+    <ProjectReference Include="..\CyberSec.Cryptocurrency.Client\CyberSec.Cryptocurrency.Client.csproj" />
+    <ProjectReference Include="..\CyberSec.Cryptocurrency.Service\CyberSec.Cryptocurrency.Service.csproj" />
+    <ProjectReference Include="..\CyberSec.Cryptocurrency.Shared\CyberSec.Cryptocurrency.Shared.csproj" />
   </ItemGroup>
 
 
